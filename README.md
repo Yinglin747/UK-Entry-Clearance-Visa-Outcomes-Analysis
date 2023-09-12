@@ -5,7 +5,7 @@ Hello and thank you for checking out my project :)
 <br> Variables available: Year, quarter, nationality, region, visa type group, visa type, visa type subgroup, applicant type, case outcome, decisions
 
 <br> Description
-<br> <b>Year / Quarter<b>: The period in which a visa application or decision was made.
+<br> <p><b>Year / Quarter<b>: The period in which a visa application or decision was made.<p>
 <br> <b>Nationality<b>: Nationality of the visa applicant.
 <br> <b>Region<b>: World region of the country of nationality for the visa applicant.
 <br> <b>Visa type group<b>: The type of visa applied for grouped into six categories (work, study, family, visitor, other, dependants joining or accompanying).
