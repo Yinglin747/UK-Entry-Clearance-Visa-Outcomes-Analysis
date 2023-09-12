@@ -42,8 +42,8 @@ Hello and thank you for checking out my project :)
         <td>The outcome of the application (granted, refused, withdrawn, lapsed).</td>
     </tr>
     <tr>
-        <td>Applications</td>
-        <td>The number of visa applications made.</td>
+        <td>Decisions</td>
+        <td>The number of visa decisions made.</td>
     </tr>
 </table>
 Data source: 
