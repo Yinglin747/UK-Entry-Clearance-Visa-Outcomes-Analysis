@@ -1,7 +1,7 @@
 ### UK-Entry-Clearance-Visa-Outcomes-Analysis
 
 Hello and thank you for checking out my project :)
-<br> This project breaks down the entry clearance visa applications received outside the UK from 2005 to 2023 Q2. (update: Q3 data became available on 23/11, update in progress.)
+<br> This project breaks down the entry clearance visa applications received outside the UK from 2005 to 2023 Q2. 
 <br> Variables available: Year, quarter, nationality, region, visa type group, visa type, visa type subgroup, applicant type, case outcome, decisions
 
 <table>
