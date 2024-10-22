@@ -1,6 +1,6 @@
 ### UK-Entry-Clearance-Visa-Outcomes-Analysis
 
-
+Dataset latest update: June 2024
 <br> This project breaks down the entry clearance visa applications received outside the UK from 2005 to 2023 Q2. 
 <br> Variables available: Year, quarter, nationality, region, visa type group, visa type, visa type subgroup, applicant type, case outcome, decisions
 
